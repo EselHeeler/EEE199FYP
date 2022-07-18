@@ -6,14 +6,13 @@ An affordable real-time air quality monitoring system for medical facilities tha
 
 This repository contains the libraries, schematic, and scripts used for the project. 
 
-Components
+Components:
 -ESP32 MCU
 -BME680 sensor
 -PMS7003 sensor
 -MQ135 sensor
 -MQ7 sensor
 -external antenna
-
 
 Arduino IDE
 Libraries
